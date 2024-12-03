@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "bF2PWuR8JwkaAOo/YXHsL7e2/KOqvdHumJWF38hLCdw=",
+  "Source": "FelisEShop.api",
+  "BasePath": "_content/FelisEShop.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
