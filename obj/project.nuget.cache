@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HDv363R9MJU=",
+  "dgSpecHash": "IMktU6bwAB0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\zohrs\\OneDrive\\Documents\\School\\CSharp2\\REST-API-Kurs\\Lektion-04\\FelisEShop.api\\FelisEShop.api.csproj",
+  "projectFilePath": "C:\\Users\\zohrs\\OneDrive\\Documents\\School\\CSharp2\\FelisEShop.api\\FelisEShop.api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zohrs\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\zohrs\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",

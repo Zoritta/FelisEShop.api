@@ -3117,11 +3117,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\zohrs\\OneDrive\\Documents\\School\\CSharp2\\REST-API-Kurs\\Lektion-04\\FelisEShop.api\\FelisEShop.api.csproj",
+      "projectUniqueName": "C:\\Users\\zohrs\\OneDrive\\Documents\\School\\CSharp2\\FelisEShop.api\\FelisEShop.api.csproj",
       "projectName": "FelisEShop.api",
-      "projectPath": "c:\\Users\\zohrs\\OneDrive\\Documents\\School\\CSharp2\\REST-API-Kurs\\Lektion-04\\FelisEShop.api\\FelisEShop.api.csproj",
+      "projectPath": "C:\\Users\\zohrs\\OneDrive\\Documents\\School\\CSharp2\\FelisEShop.api\\FelisEShop.api.csproj",
       "packagesPath": "C:\\Users\\zohrs\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\zohrs\\OneDrive\\Documents\\School\\CSharp2\\REST-API-Kurs\\Lektion-04\\FelisEShop.api\\obj\\",
+      "outputPath": "C:\\Users\\zohrs\\OneDrive\\Documents\\School\\CSharp2\\FelisEShop.api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
