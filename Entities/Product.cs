@@ -1,5 +1,3 @@
-
-
 namespace FelisEShop.api.Entities
 {
     public class Product
