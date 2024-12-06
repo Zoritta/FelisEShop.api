@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FelisEShop.api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53877278f9cdbfa3e5cf6242b0f62e25d1050465")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2d3ac4eb0df99ac9f574c9c81e5d4241b7895d0")]
 [assembly: System.Reflection.AssemblyProductAttribute("FelisEShop.api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FelisEShop.api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
