@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zohrs\\OneDrive\\Documents\\School\\CSharp2\\FelisEShop.api\\FelisEShop.api.csproj": {}
+    "C:\\Users\\zohrs\\MyPC\\School\\CSharp2\\FelisEShop.api\\FelisEShop.api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zohrs\\OneDrive\\Documents\\School\\CSharp2\\FelisEShop.api\\FelisEShop.api.csproj": {
+    "C:\\Users\\zohrs\\MyPC\\School\\CSharp2\\FelisEShop.api\\FelisEShop.api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zohrs\\OneDrive\\Documents\\School\\CSharp2\\FelisEShop.api\\FelisEShop.api.csproj",
+        "projectUniqueName": "C:\\Users\\zohrs\\MyPC\\School\\CSharp2\\FelisEShop.api\\FelisEShop.api.csproj",
         "projectName": "FelisEShop.api",
-        "projectPath": "C:\\Users\\zohrs\\OneDrive\\Documents\\School\\CSharp2\\FelisEShop.api\\FelisEShop.api.csproj",
+        "projectPath": "C:\\Users\\zohrs\\MyPC\\School\\CSharp2\\FelisEShop.api\\FelisEShop.api.csproj",
         "packagesPath": "C:\\Users\\zohrs\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zohrs\\OneDrive\\Documents\\School\\CSharp2\\FelisEShop.api\\obj\\",
+        "outputPath": "C:\\Users\\zohrs\\MyPC\\School\\CSharp2\\FelisEShop.api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
